@@ -2,7 +2,6 @@
 
  ### :technologist: **About Me**:
 <h3 align="left">A passionate software developer from Việt Nam</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xuanda21&label=Profile%20views&color=0e75b6&style=flat" alt="xuanda21" /> </p>
 <p align="left">
 </p>
 
